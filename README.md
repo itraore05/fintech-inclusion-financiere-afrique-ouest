@@ -57,15 +57,21 @@ L'accès inégal à Internet et aux smartphones limite directement la bancarisat
 
 ## 🖼️ Aperçu
 
-*(captures et vidéo de démonstration — liens ajoutés après import des fichiers)*
+🎬 **[Voir la vidéo de démonstration du dashboard](VIDEO%20de%20%20Pr%C3%A9sentation%20Dashboard.mp4)**
+
+📄 **[Consulter le dashboard en PDF](Dashboard%20pdf%20Fintech%20%26%20Inclusion%20financiere%20en%20Afrique%20de%20l_Ouest.pdf)**
 
 ## 📁 Contenu du dépôt
 
 | Élément | Description |
 |---|---|
-| Dashboard Power BI (`.pbix`) | Tableau de bord interactif |
-| Dashboard (PDF) | Export PDF du tableau de bord |
-| Vidéo de présentation | Démonstration du dashboard |
+| [Dashboard Power BI (`.pbix`)](Dashboard%20POWER%20BI%20Fintech%20%26%20Inclusion%20financi%C3%A8re%20.pbix) | Tableau de bord interactif |
+| [Dashboard (PDF)](Dashboard%20pdf%20Fintech%20%26%20Inclusion%20financiere%20en%20Afrique%20de%20l_Ouest.pdf) | Export PDF du tableau de bord |
+| [Vidéo de présentation (`.mp4`)](VIDEO%20de%20%20Pr%C3%A9sentation%20Dashboard.mp4) | Démonstration du dashboard |
+
+## ▶️ Utilisation
+
+Ouvrir le fichier `.pbix` avec **Power BI Desktop** pour explorer le tableau de bord et ses filtres.
 
 ## 👤 Auteur
 
