@@ -57,10 +57,6 @@ L'accès inégal à Internet et aux smartphones limite directement la bancarisat
 
 ## 🖼️ Aperçu
 
-| Thème sombre | Thème clair |
-|---|---|
-| ![](images/page1.png) | ![](images/page2.png) |
-
 🎬 **[Voir la vidéo de démonstration du dashboard](VIDEO%20de%20%20Pr%C3%A9sentation%20Dashboard.mp4)**
 
 📄 **[Consulter le dashboard en PDF](Dashboard%20pdf%20Fintech%20%26%20Inclusion%20financiere%20en%20Afrique%20de%20l_Ouest.pdf)**
